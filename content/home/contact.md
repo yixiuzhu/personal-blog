@@ -25,32 +25,32 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhuyixiu06@gmail.com
+  phone: (857)-800-2044
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 771 Beacon Street, Apt 802
+    city: Boston
+    region: MA
+    postcode: '02215'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
+    latitude: '42.2050'
+    longitude: '-71.0602'
+  directions: Enter Bowers Apartment and ask the front desk
+  # office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/zhu_yixiu'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://us05web.zoom.us/j/83721722519?pwd=dmVRY0h5RTNJK0ZiODNvek5PUDBYQT09'
 
 design:
   columns: '2'
