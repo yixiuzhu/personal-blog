@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '42.2050'
     longitude: '-71.0602'
-  directions: Enter Bowers Apartment and ask the front desk
+  directions: Enter bowers apartment and ask the front desk
   # office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
