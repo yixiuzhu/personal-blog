@@ -22,28 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: PEAC Lab
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    company_logo: org-PEACLAB
+    location: Boston University
+    date_start: '2020-06-01'
+    date_end: '2021-02-20'
+    description: 
+    |3-
+        Collaboratively researched on Thermal Analysis of Many-core Chips with Integrated Photonics:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Performed thermal simulation for the 2.5D integrated systems with photonic links
+        * Analyzed the thermal behavior for generalized homogeneous systems using HotSpot
+        * Brought improvements on simulation efficiency by integrating a Python Wrapper into the generalized thermal simulation framework and generalizing heating power estimation
+        * Researched further on the simulation framework limitations and increased its compatibility to support other thermal simulation methods
+    |3-
+        Collaboratively researched on Thermal Analysis of CPU-GPU Heterogeneous Systems with Integrated Photonics:
+              
+        * Designed multiple layers of floor plans using HotSpot thermal simulation platform
+        * Analyzed 3 GPU simulators and simulated 6 kinds of GPUs for integration purpose
+        * Characterized the heating power requirements for general CPU-GPU systems       
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Student Affair Secretary
+    company: BUCSSA(Chinese Students and Scholars Association)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-BUCSSA
+    location: Boston University
+    date_start: '2018-12-01'
+    date_end: '2020-06-01'
+    description: |2-
+        Accomplishments include:
+        
+        * Enhanced school bonds through cooperating with MIT CSSA, BCCSSA, and NEUCSSA to organize inter-school events
+        * Supported and coordinated in over 12 successful big events involving more than 100 participants
 
 design:
   columns: '2'
