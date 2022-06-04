@@ -31,18 +31,18 @@ experience:
     date_end: '2021-02-20'
     description: >-
     
-        Collaboratively researched on Thermal Analysis of Many-core Chips with Integrated Photonics:
+        1. Collaboratively researched on Thermal Analysis of Many-core Chips with Integrated Photonics:
         
-        * Performed thermal simulation for the 2.5D integrated systems with photonic links
-        * Analyzed the thermal behavior for generalized homogeneous systems using HotSpot
-        * Brought improvements on simulation efficiency by integrating a Python Wrapper into the generalized thermal simulation framework and generalizing heating power estimation
-        * Researched further on the simulation framework limitations and increased its compatibility to support other thermal simulation methods
+          * Performed thermal simulation for the 2.5D integrated systems with photonic links
+          * Analyzed the thermal behavior for generalized homogeneous systems using HotSpot
+          * Brought improvements on simulation efficiency by integrating a Python Wrapper into the generalized thermal simulation framework and generalizing heating power estimation
+          * Researched further on the simulation framework limitations and increased its compatibility to support other thermal simulation methods
         
-        Collaboratively researched on Thermal Analysis of CPU-GPU Heterogeneous Systems with Integrated Photonics:
+        2. Collaboratively researched on Thermal Analysis of CPU-GPU Heterogeneous Systems with Integrated Photonics:
               
-        * Designed multiple layers of floor plans using HotSpot thermal simulation platform
-        * Analyzed 3 GPU simulators and simulated 6 kinds of GPUs for integration purpose
-        * Characterized the heating power requirements for general CPU-GPU systems       
+          * Designed multiple layers of floor plans using HotSpot thermal simulation platform
+          * Analyzed 3 GPU simulators and simulated 6 kinds of GPUs for integration purpose
+          * Characterized the heating power requirements for general CPU-GPU systems       
 
   - title: Student Affair Secretary
     company: BUCSSA(Chinese Students and Scholars Association)
