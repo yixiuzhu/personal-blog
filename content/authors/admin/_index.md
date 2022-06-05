@@ -27,7 +27,7 @@ education:
   courses:
     - course: BSc in Electrical Engineering
       institution: Boston University
-      year: 2022
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,7 +55,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "zhuyixiu06@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -66,4 +66,4 @@ Yixiu Zhu recently graduated from Boston University with a Bachelor's degree in 
 
 Besides academics, Yixiu Zhu seeks various types of challenges in real life. He is a talented remote-controlled car racer and enthusiastic in writing traditional chinese poems. He is a chinese industrial design patent holder and wishes to create more inspirational designs to decorate his life.  
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref # >}}.-->
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
