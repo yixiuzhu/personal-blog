@@ -20,7 +20,7 @@ bio: My research interests will generally aim toward the design of autonomous ve
 interests:
   - Autonomous Vehicles
   - Machine Learning
-  - Electrical Systems 
+  - Control Systems 
 
 # Education to show in About widget
 education:
@@ -60,11 +60,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Resume Deleted Part: (This part is supposed to be under --- and also under the personal discription)
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref # >}}.
+# Resume Deleted Part:  (Remember to delete the <!-- --> once available)
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yixiu Zhu recently graduated from Boston University with a Bachelor's degree in Electrical Engineering. He is currently actively preparing himself with bunch of software engineering skills to persue his dream of developing autonomous vehicles. In past years, he has taken advanced cources in Deep Learning, Reinforced Learning, Electric Energy Systems etc. He is fluent in python , C and matlab. He has also interned in Boston University PEAC Lab and collaboratively researched on Many-core Chips and CPU-GPU Heterogeneous Systems' thermal behaviour. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Besides academics, Yixiu Zhu seeks for various types of challenges in real life. He is a talented remote controlled car racer and enthusiastic in writing traditional chinese poems. He holds a patent holder and wishes to create more inspirational designs to decorate his life.  
 
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref # >}}.-->
