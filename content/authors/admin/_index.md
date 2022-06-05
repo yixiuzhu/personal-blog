@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: Boston University
       year: 2018-2022
 
