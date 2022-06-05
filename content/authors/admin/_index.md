@@ -63,8 +63,8 @@ highlight_name: true
 # Resume Deleted Part:  (Remember to delete the <!-- --> once available)
 ---
 
-Yixiu Zhu recently graduated from Boston University with a Bachelor's degree in Electrical Engineering. He is currently actively preparing himself with bunch of software engineering skills to persue his dream of developing autonomous vehicles. In past years, he has taken advanced cources in Deep Learning, Reinforced Learning, Electric Energy Systems etc. He is fluent in python , C and matlab. He has also interned in Boston University PEAC Lab and collaboratively researched on Many-core Chips and CPU-GPU Heterogeneous Systems' thermal behaviour. 
+Yixiu Zhu recently graduated from Boston University with a Bachelor's degree in Electrical Engineering. He is currently actively preparing himself with a bunch of software engineering skills to pursue his dream of developing autonomous vehicles. In past years, he has taken advanced courses in Deep Learning, Reinforced Learning, Electric Energy Systems, etc. He is fluent in Python, C, and Matlab. He has also interned in Boston University PEAC Lab and collaboratively researched Many-core Chips and CPU-GPU Heterogeneous Systems' thermal behavior. 
 
-Besides academics, Yixiu Zhu seeks for various types of challenges in real life. He is a talented remote controlled car racer and enthusiastic in writing traditional chinese poems. He holds a patent holder and wishes to create more inspirational designs to decorate his life.  
+Besides academics, Yixiu Zhu seeks various types of challenges in real life. He is a talented remote-controlled car racer and enthusiastic in writing traditional chinese poems. He is a chinese industrial design patent holder and wishes to create more inspirational designs to decorate his life.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref # >}}.-->
