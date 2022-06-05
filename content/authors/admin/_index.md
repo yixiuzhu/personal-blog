@@ -60,7 +60,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Resume Deleted Part:  (Remember to delete the <!-- --> once available)
 ---
 
 Yixiu Zhu recently graduated from Boston University with a Bachelor's degree in Electrical Engineering. He is currently actively preparing himself with a bunch of software engineering skills to pursue his dream of developing autonomous vehicles. In past years, he has taken advanced courses in Deep Learning, Reinforced Learning, Electric Energy Systems, etc. He is fluent in Python, C, and Matlab. He has also interned in Boston University PEAC Lab and collaboratively researched Many-core Chips and CPU-GPU Heterogeneous Systems' thermal behavior. 
