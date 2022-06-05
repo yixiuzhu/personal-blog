@@ -32,8 +32,8 @@ experience:
     description: >-
     
         1. Collaboratively researched on Thermal Analysis of Many-core Chips with Integrated Photonics:
-          * Analyzed the thermal behavior for 2.5D integrated systems and generalized homogeneous systems using HotSpot
-          * Brought improvements on simulation efficiency by integrating a Python Wrapper into the generalized thermal simulation framework and generalizing heating power estimation
+          * Analyzed thermal behaviors of 2.5D integrated systems and generalized homogeneous systems using HotSpot
+          * Brought improvements on simulation efficiency by integrating a Python Wrapper into the generalized thermal simulation framework
           * Researched further on the simulation framework limitations and increased its compatibility to support other thermal simulation methods
         
         2. Collaboratively researched on Thermal Analysis of CPU-GPU Heterogeneous Systems with Integrated Photonics:
