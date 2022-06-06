@@ -2,8 +2,8 @@
 title: Evaluation of LSTM-cell based Recurrent Neural Network on Next Word Prediction
 summary: An evaluation of 5-word sentence prediction based on LSTM and GRU units.
 tags:
-- Machine Learning
-- Deep Learning
+- Machine_Learning
+- Deep_Learning
 - Python
 - RNN
 - LSTM
