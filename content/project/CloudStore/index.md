@@ -10,7 +10,7 @@ tags:
 - Authentication
 - GCP
 - Elastic Search
---Stripe
+- Stripe
 date: "2022-02-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
