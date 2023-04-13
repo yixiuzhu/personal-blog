@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Full Stack
+      tag: 'Full Stack'
+    - name: Front End
+      tag: 'Front End'
+    - name: Back End
+      tag: 'Back End'
     - name: Machine Learning
       tag: 'Machine_Learning'
-    - name: Python
-      tag: 'Python'
     - name: Industrial Design
       tag: 'Industrial_Design'
     - name: Other

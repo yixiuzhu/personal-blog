@@ -2,6 +2,7 @@
 title: EasyNFT:React based NFT Price and assets Visualization
 summary:  Leveraged React and AntD UI Component Library to boost client side development. Leveraged Moralis NFT API to fetch NFT relevant data (e.g. price, name, description etc.). Built NFT trade/price chart UI with Recharts and JavaScript.
 tags:
+- Front End
 - NFT
 - React
 - AntDesign

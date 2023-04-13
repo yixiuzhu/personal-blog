@@ -1,15 +1,10 @@
 ---
 title: GameHere:A Full-Stack Personalized Twitch Recommendation Platform
-summary:  
-● Designed and built a full-stack web application for users to search streams/videos/clips from twitch and offer content-based recommendations
-● Built a webpage with rich and user friendly experience using React and Ant Design
-● Implemented RESTful APIs using Java servlets, retrieved real Twitch resources using Twitch
-APIs with Spring declarative HTTP client.
-● Hosted a MySQL database on AWS RDS, implementing CRUD operations with Spring Data
-JDBC for efficient data access and manipulation.
-● Implemented Spring Boot Caching with Caffeine to improve application performance
-● Unit tests achieved 85% overall code coverage and 100% coverage rate for major API functions
+summary: Designed and built a full-stack web application for users to search streams/videos/clips from twitch and offer content-based recommendations. Built a webpage with rich and user friendly experience using React and Ant Design. Implemented RESTful APIs using Java servlets, retrieved real Twitch resources using Twitch APIs with Spring declarative HTTP client. Hosted a MySQL database on AWS RDS, implementing CRUD operations with Spring Data
+JDBC for efficient data access and manipulation. Implemented Spring Boot Caching with Caffeine to improve application performance. Unit tests achieved 85% overall code coverage and 100% coverage rate for major API functions
+
 tags:
+- Full Stack
 - React
 - AntDesign
 - RESTful API
