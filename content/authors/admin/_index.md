@@ -10,6 +10,8 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: University of Southern California
+    url: https://www.usc.edu/
   - name: Boston University
     url: https://www.bu.edu/
 
@@ -18,13 +20,16 @@ bio: My research interests will generally aim toward the design of autonomous ve
 
 # Interests to show in About widget
 interests:
-  - Autonomous Vehicles
-  - Machine Learning
-  - Control Systems 
+  - Full Stack Developing
+  - Machine Learning (NLP/CV)
+  - Remote Control Car Racing
 
 # Education to show in About widget
 education:
   courses:
+    - course: Master in Electrical Engineering
+      institution: University of Southern California
+      year: 2022-2024
     - course: BEng in Electrical Engineering
       institution: Boston University
       year: 2018-2022
@@ -62,8 +67,10 @@ highlight_name: true
 
 ---
 
-Yixiu Zhu recently graduated from Boston University with a Bachelor's degree in Electrical Engineering. He is currently actively preparing himself with a bunch of software engineering skills to pursue his dream of developing autonomous vehicles. In past years, he has taken advanced courses in Deep Learning, Reinforced Learning, Electric Energy Systems, etc. He is fluent in Python, C, and Matlab. He has also interned in Boston University PEAC Lab and collaboratively researched Many-core Chips and CPU-GPU Heterogeneous Systems' thermal behavior. 
+Yixiu Zhu is a dedicated Master's degree candidate at the University of Southern California, pursuing a degree in Electrical Engineering after recently graduating from Boston University with a Bachelor's degree in the same field. He is currently seeking a summer 2023 software engineer internship and has honed his exceptional programming and analytical skills in JavaScript, Java, Spring, and React. Yixiu is a fast learner with experience in 10 diverse projects, including open-sourced websites, Android/iOS apps, and ML competitions. He has led a team to the final round of the United States Air Force Research Laboratory's yearly competition, showcasing his strong leadership abilities.
 
-Besides academics, Yixiu Zhu seeks various types of challenges in real life. He is a talented remote-controlled car racer and enthusiastic in writing traditional chinese poems. He is a chinese industrial design patent holder and wishes to create more inspirational designs to decorate his life.  
+Throughout his academic and professional journey, Yixiu has undertaken various full-stack web and mobile development projects, such as GameHere, a personalized Twitch recommendation platform, CloudStore, an app purchase platform, and EasyNFT, an NFT price and assets visualization tool. He has also interned at the PEAC Lab in Boston University, where he researched Many-core Chips and CPU-GPU Heterogeneous Systems' thermal behavior, enhancing simulation efficiency and heating power estimation. 
+
+Outside of his academic pursuits, Yixiu is a talented remote-controlled car racer, enthusiastic in writing traditional Chinese poems, and holds a Chinese industrial design patent, always looking to create inspirational designs to enrich his life.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -25,20 +25,18 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
     - name: Full Stack
-      tag: 'Full Stack'
+      tag: 'Full_Stack'
     - name: Front End
-      tag: 'Front End'
+      tag: 'Front_End'
     - name: Back End
-      tag: 'Back End'
+      tag: 'Back_End'
     - name: Machine Learning
       tag: 'Machine_Learning'
     - name: Industrial Design
       tag: 'Industrial_Design'
-    - name: Other
-      tag: 'Other'
+    - name: All
+      tag: '*'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

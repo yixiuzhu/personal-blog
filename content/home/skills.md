@@ -17,13 +17,53 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 70%
-    icon: python
+    icon: java
     icon_pack: custom
-    name: Python
+    name: Java
   - description: 60%
-    icon: c
+    icon: react
     icon_pack: custom
-    name: C
+    name: React
+  - description: 60%
+    icon: go
+    icon_pack: custom
+    name: Go
+  - description: 60%
+    icon: c++
+    icon_pack: custom
+    name: C++
+  - description: 60%
+    icon: javascript
+    icon_pack: custom
+    name: JavaScript
+  - description: 60%
+    icon: gcp
+    icon_pack: custom
+    name: GCP
+  - description: 50%
+    icon: aws
+    icon_pack: custom
+    name: AWS
+  - description: 50%
+    icon: mysql
+    icon_pack: custom
+    name: MySQL
+  - description: 50%
+    icon: aws
+    icon_pack: custom
+    name: AWS
+  - description: 50%
+    icon: spring
+    icon_pack: custom
+    name: Spring
+  - description: 50%
+    icon: node.js
+    icon_pack: custom
+    name: Node.js
+  - description: 40%
+    icon: hibernate
+    icon_pack: custom
+    name: Hibernate
   - description: 50%
     icon: matlab
     icon_pack: custom
