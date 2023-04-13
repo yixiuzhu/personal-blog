@@ -2,14 +2,14 @@
 title: GameHere:A Full-Stack Personalized Twitch Recommendation Platform
 summary: Designed and implemented a web application for software purchase with React JS. Implemented features for user to create, browse and search software. Built responsive and intuitive UI with AntDesign, and supported file upload. Improved authentication using token-based registeration/login/logout flow with JWT. Launched a microservice in Go to handle register/login/logout/upload/checkout and deployed to Google Cloud(Google App Engine). Used Elastic Search(deployed to GCE) to provide search functions such that users can search softwares.Integrated with Stripe API for checkout and view history information.
 tags:
-- Full Stack
+- Full_Stack
 - React
 - JavaScript
 - Go
 - AntDesign
 - Authentication
 - GCP
-- Elastic Search
+- Elastic_Search
 - Stripe
 date: "2022-02-16T00:00:00Z"
 

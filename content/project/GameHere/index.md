@@ -4,10 +4,10 @@ summary: Designed and built a full-stack web application for users to search str
 JDBC for efficient data access and manipulation. Implemented Spring Boot Caching with Caffeine to improve application performance. Unit tests achieved 85% overall code coverage and 100% coverage rate for major API functions
 
 tags:
-- Full Stack
+- Full_Stack
 - React
 - AntDesign
-- RESTful API
+- RESTful_API
 - AWS
 date: "2022-01-16T00:00:00Z"
 
